@@ -1,3 +1,4 @@
 num = 100
 new_num = 20
+nu = 1
 num3 = 200
